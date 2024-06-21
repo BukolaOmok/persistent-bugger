@@ -25,7 +25,7 @@ test("multiply number till reaches single digit", () => {
 });
 
 test("multiply number till reaches single digit", () => {
-  expect(persistence(3456)).toEqual(3);
+  expect(persistence(3456)).toEqual(2);
 });
 
 test("multiply number till reaches single digit", () => {
